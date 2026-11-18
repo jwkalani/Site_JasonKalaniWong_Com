@@ -1,2 +1,18 @@
 CLAUDE.md
 design/
+
+# added by AutoBackup-GitHub (rebuildable / huge / private)
+venv/
+node_modules/
+__pycache__/
+*.pyc
+dist/
+dist_installer/
+dev_tests/
+User_Created_Projects/
+*.log
+*.tmp
+.env
+.env.*
+.credentials.json
+client_secret*.json
